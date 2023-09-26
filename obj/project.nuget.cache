@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "piz1ztFKyXAb/ho4SZxNuwxXhfqALO9xx2UNXgAhds91eoRohLCpyCed1SMa6Od/EEsKwTgstFurgNkf6+nomA==",
+  "success": true,
+  "projectFilePath": "/home/kelvin/lab/WebRTC/ffmepg_lab/ffmepg_lab.csproj",
+  "expectedPackageFiles": [
+    "/home/kelvin/.nuget/packages/ffmpegcore/5.1.0/ffmpegcore.5.1.0.nupkg.sha512",
+    "/home/kelvin/.nuget/packages/ffmpegcore.extensions.skiasharp/5.0.0/ffmpegcore.extensions.skiasharp.5.0.0.nupkg.sha512",
+    "/home/kelvin/.nuget/packages/ffmpegcore.extensions.system.drawing.common/5.0.0/ffmpegcore.extensions.system.drawing.common.5.0.0.nupkg.sha512",
+    "/home/kelvin/.nuget/packages/instances/3.0.0/instances.3.0.0.nupkg.sha512",
+    "/home/kelvin/.nuget/packages/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "/home/kelvin/.nuget/packages/skiasharp/2.88.6/skiasharp.2.88.6.nupkg.sha512",
+    "/home/kelvin/.nuget/packages/skiasharp.nativeassets.linux.nodependencies/2.88.3/skiasharp.nativeassets.linux.nodependencies.2.88.3.nupkg.sha512",
+    "/home/kelvin/.nuget/packages/skiasharp.nativeassets.macos/2.88.6/skiasharp.nativeassets.macos.2.88.6.nupkg.sha512",
+    "/home/kelvin/.nuget/packages/skiasharp.nativeassets.win32/2.88.6/skiasharp.nativeassets.win32.2.88.6.nupkg.sha512",
+    "/home/kelvin/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512",
+    "/home/kelvin/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/home/kelvin/.nuget/packages/system.text.json/7.0.2/system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

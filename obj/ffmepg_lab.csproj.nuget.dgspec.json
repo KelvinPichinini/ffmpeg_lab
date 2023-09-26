@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/kelvin/lab/WebRTC/ffmepg_lab/ffmepg_lab.csproj": {}
+  },
+  "projects": {
+    "/home/kelvin/lab/WebRTC/ffmepg_lab/ffmepg_lab.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kelvin/lab/WebRTC/ffmepg_lab/ffmepg_lab.csproj",
+        "projectName": "ffmepg_lab",
+        "projectPath": "/home/kelvin/lab/WebRTC/ffmepg_lab/ffmepg_lab.csproj",
+        "packagesPath": "/home/kelvin/.nuget/packages/",
+        "outputPath": "/home/kelvin/lab/WebRTC/ffmepg_lab/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kelvin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FFMpegCore.Extensions.SkiaSharp": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "FFMpegCore.Extensions.System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "FFmpegCore": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "SkiaSharp": {
+              "target": "Package",
+              "version": "[2.88.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
